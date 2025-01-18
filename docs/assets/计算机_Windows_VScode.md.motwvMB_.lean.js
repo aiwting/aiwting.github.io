@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.YPpNXepj.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"计算机/Windows/VScode.md","filePath":"计算机/Windows/VScode.md","lastUpdated":null}'),a={name:"计算机/Windows/VScode.md"};function s(c,d,n,r,i,p){return o(),t("div")}const m=e(a,[["render",s]]);export{l as __pageData,m as default};
