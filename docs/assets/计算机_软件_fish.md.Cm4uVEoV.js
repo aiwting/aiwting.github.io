@@ -1,0 +1,10 @@
+import{_ as a,c as n,o as e,ag as l}from"./chunks/framework.DPDPlp3K.js";const f=JSON.parse('{"title":"shell概述","description":"","frontmatter":{},"headers":[],"relativePath":"计算机/软件/fish.md","filePath":"计算机/软件/fish.md","lastUpdated":null}'),i={name:"计算机/软件/fish.md"};function h(p,s,t,r,c,o){return e(),n("div",null,s[0]||(s[0]=[l(`<h1 id="shell概述" tabindex="-1">shell概述 <a class="header-anchor" href="#shell概述" aria-label="Permalink to &quot;shell概述&quot;">​</a></h1><p>Shell 是用户与 Linux 或 Unix 操作系统内核之间的桥梁，它提供了一个命令行界面（CLI），使用户能够与系统进行交互，执行各种任务.</p><p>Linux 的<code>/etc/shells</code>文件中记录了当前系统可用的shell</p><div class="language-/etc/shells vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">/etc/shells</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>/bin/sh</span></span>
+<span class="line"><span>/bin/bash</span></span>
+<span class="line"><span>/bin/rbash</span></span>
+<span class="line"><span>/usr/bin/sh</span></span>
+<span class="line"><span>/usr/bin/bash</span></span>
+<span class="line"><span>/usr/bin/rbash</span></span>
+<span class="line"><span>/bin/tcsh</span></span>
+<span class="line"><span>/usr/bin/tcsh</span></span>
+<span class="line"><span>/bin/csh</span></span>
+<span class="line"><span>/usr/bin/csh</span></span></code></pre></div><h2 id="fish" tabindex="-1">fish <a class="header-anchor" href="#fish" aria-label="Permalink to &quot;fish&quot;">​</a></h2><p>Fish（the Friendly Interactive Shell）是一种用户友好的命令行 shell, 能够带来方便易用, 美观高效的交互体验.</p><ul><li>官网: <a href="https://fishshell.com/" target="_blank" rel="noreferrer">Finally, a command line shell for the 90s</a></li><li>GitHub: <a href="https://github.com/fish-shell/fish-shell" target="_blank" rel="noreferrer">fish-shell</a></li><li>特点: <ul><li>用户友好的语法</li><li>智能自动补全</li><li>漂亮的提示符</li></ul></li></ul><p>Fish 的配置文件是~/.config/fish/config.fish，每次 Fish 启动，就会自动加载这个文件。Fish 提供 Web 界面配置该文件。使用<code>fish_config</code>命令开始配置.</p>`,8)]))}const b=a(i,[["render",h]]);export{f as __pageData,b as default};

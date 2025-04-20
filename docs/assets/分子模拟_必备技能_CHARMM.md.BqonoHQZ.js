@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.mHuDn-wg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"分子模拟/必备技能/CHARMM.md","filePath":"分子模拟/必备技能/CHARMM.md","lastUpdated":null}'),r={name:"分子模拟/必备技能/CHARMM.md"};function o(s,n,c,d,p,_){return a(),t("div")}const m=e(r,[["render",o]]);export{l as __pageData,m as default};
